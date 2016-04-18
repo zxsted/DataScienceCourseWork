@@ -52,6 +52,18 @@
 - `*wd6` 20:42~21:42 学员微信群集中答疑
 - `(*+1)wd1` 11:42 前学员提交作业到 [Data102 学员仓库](https://github.com/OpenMindClub/OMOOCData/issues)的每周作业 Issues  
 
+### 课程教辅团队
+
+- 课程导师：肖凯 @xccds
+- 课程助教：竹子 @bambooom ，张亮 @hysic ，裘德 @jude90
+
+若有课程/技术疑问，欢迎联系课程导师和课程助教。
+
+- 课程助理：章靛 @zhangdian0801
+
+若有其它疑问/需求，欢迎联系@一休或课程助理。
+
+
 
 ## 课程资源索引
 
@@ -66,7 +78,7 @@
 - Python for science
 - http://www.scipy-lectures.org/
 
-### 自行预习资料
+### 自行预习材料
 
 为了你能获得更好的学习体验，正式上课之前建议你学习以下资料：
 
@@ -89,21 +101,10 @@
 - 反馈课程意见建议直接联系一休，或发邮件到 omooc@openmind.club
 - 提交[开智学堂 APP ](http://openmindclub.com/) Bug 请点 [OpenMindClub/OMC.App](https://github.com/OpenMindClub/OMC.App/issues) 
 
-### 课程教辅团队
-
-- 课程导师：肖凯 @xccds
-- 课程助教：竹子 @bambooom ，张亮 @hysic ，裘德 @jude90
-
-若有课程/技术疑问，欢迎联系课程导师和课程助教。
-
-- 课程助理：章靛 @zhangdian0801
-
-若有其它疑问/需求，欢迎联系@一休或课程助理。
-
 
 ### 常用网址
 
-建议将以下页面添加书签以便及时取用）
+（建议将以下页面添加书签以便及时取用）
 
 - 开智学堂 APP Web 版地址：http://OpenMindClub.com
 - GitHub 课程讨论地址：https://github.com/OpenMindClub/Data102/issues
