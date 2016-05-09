@@ -18,7 +18,7 @@
 - 数据可视化：前面几个步骤完成以后，就该把料理呈现出来喽，摆盘供人享用。而数据工作流程的最后一步，也是把分析好的结果，以美观明了的形式展现给数据使用者看。
 - ![image](https://github.com/linmiao/Data102/blob/master/assignment/1w/screenshot/6.png)	
 
-二、数据分析工具箱
+### 数据分析工具箱
 - Ipython
 交互环境
 - Numpy
@@ -35,11 +35,12 @@
 统计模型
 - Scikit - learn
 机器学习
-- 相关模块
-Request 网页抓取
-Beautiful soup 解析网页数据
-Flask 轻量级web框架 实现数据交互
-Sqlite3 轻量级数据库接口
-Pyspark
-networkx 社交网络分析
-theano 深度学习
+
+### 相关模块
+- Request 网页抓取
+- Beautiful soup 解析网页数据
+- Flask 轻量级web框架 实现数据交互
+- Sqlite3 轻量级数据库接口
+- Pyspark 分布式计算标准工具
+- networkx 社交网络分析
+- theano 深度学习
