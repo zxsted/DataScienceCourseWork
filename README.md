@@ -75,7 +75,7 @@
 - 《数据科学实战》
 - Numerical Python
 - Think Stats
-- Python for science
+- Python for scientists
 - http://www.scipy-lectures.org/
 
 ### 自行预习材料
