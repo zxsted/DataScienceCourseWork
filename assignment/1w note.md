@@ -12,7 +12,7 @@
 ![image](https://github.com/linmiao/Data102/blob/master/assignment/1w/screenshot/2.png)
 3. 数据清理：在正式料理开始之前，洗菜切菜对食材进行简单的处理。换句话说，完成数据获取以后，就要开始数据清理了。数据清理做得比较完备的话，也有利于更快更好地完成数据分析。  
 ![image](https://github.com/linmiao/Data102/blob/master/assignment/1w/screenshot/3.png)
-4. 数据分析：小当家在制作非面的过程中也经历了一番探索。试吃鲶鱼非面的时候，小当家才发现自己的鲶鱼面毫无嚼劲，完全达不到需求定义中Q弹粘牙的要求。于是小当家试着改进鲶鱼面，在面条里加入鱿鱼芯，让软软的鲶鱼面变得有嚼劲。小当家试吃鲶鱼面就像在探索数据，先把手里的食材（数据）做成初步的料理（画图），再慢慢探索和进行下一步数据分析。  
+4. 数据分析：小当家在制作非面的过程中也经历了一番探索。试吃鲶鱼非面的时候，小当家才发现自己的鲶鱼面毫无嚼劲，完全达不到需求定义中Q弹粘牙的要求。于是小当家试着改进鲶鱼面，在面条里加入鱿鱼芯，解决了鲶鱼面口感绵软的问题。小当家试吃鲶鱼面就像在探索数据，先把手里的食材（数据）做成初步的料理（画图），再慢慢探索和进行下一步数据分析。  
 ![image](https://github.com/linmiao/Data102/blob/master/assignment/1w/screenshot/4.png)   
 ![image](https://github.com/linmiao/Data102/blob/master/assignment/1w/screenshot/5.png)
 5. 数据可视化：前面几个步骤完成以后，就该把料理呈现出来喽，摆盘供人享用。而数据工作流程的最后一步，也是把分析好的结果，以美观明了的形式展现给数据使用者看。  
