@@ -49,7 +49,7 @@
 	- 疑问发布到 Issue 中，发布方式参考 [Issue 提问模板](https://github.com/OpenMindClub/Data102/issues/2)
 	- 导师/助教 异步答疑指点
 	- 尽量不在微信群中讨论技术问题
-- `*wd6` 20:42~21:42 学员微信群集中答疑
+- `*wd6` 20:00~21:00 学员微信群集中答疑
 - `(*+1)wd1` 11:42 前学员提交作业到 [Data102 学员仓库](https://github.com/OpenMindClub/Data102/issues)的每周作业 Issues  
 
 ### 课程教辅团队
