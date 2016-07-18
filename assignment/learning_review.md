@@ -26,7 +26,7 @@
 
 <img src="https://raw.githubusercontent.com/linmiao/Data102/master/assignment/data.png?token=AKa5utVX5m4N4C2_YnyJpD3Jj8Jx98YGks5XlYPmwA%3D%3D" width="30%" height="100%" />
 
-但是，该怎么从表格里读出手机的使用情况呢？这里，使用肖凯老师教过的时间序列操作和可视化知识，数据就变成了下面这个样子。
+但是，该怎么从表格里读出手机的使用情况呢？这里，用肖凯老师教过的时间序列操作和可视化知识进行处理，数据就变成了下面这个样子。
 
 <img src="https://raw.githubusercontent.com/linmiao/Data102/master/assignment/learning_r1.jpg?token=AKa5urCpXkme2fWj_hoYZOJxMLXFPuxMks5XlYUPwA%3D%3D" width="40%" height="100%" />
 
