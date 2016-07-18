@@ -34,7 +34,7 @@
 可视化将繁杂的数据变得简单明了：图中使用频次较高的时段，也就是频繁分心看手机的时候。这时，可以记下高频次时段，下次进行重要任务分配时，就尽量避开这些容易分心的时候。
 
 虽然只是入门班，但课程难度远不止数据操作与可视化这么简单。最后的大作业，就要用到所学知识，独立完成一个数据科学项目。曾经嚷嚷着要做文本情感分析的我，终于做了一回推特数据的情感分析。实现方法虽尚显稚嫩，但从调用推特API，到朴素贝叶斯和线性判别分析的学习，再到最后的 WordCloud 词云可视化，其中的每一步都收获满满。
-<img src="https://raw.githubusercontent.com/linmiao/Data102/master/assignment/9w/brexit_pic.png?token=AKa5uiNCNcN-coFAC3_6um5Bm9K94ep9ks5XlerkwA%3D%3D" width=“30%” height="100%" /> 
+<img src="https://raw.githubusercontent.com/linmiao/Data102/master/assignment/brexit_pic.png?token=AKa5ut3bxrgKuRq7uiWWdYoZR6k0FQQfks5XleuowA%3D%3D" width=“30%” height="100%" /> 
 
 
 ### 未来
