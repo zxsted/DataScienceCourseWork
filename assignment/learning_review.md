@@ -23,7 +23,9 @@
 除了基本的数据分析技能，数据思维也是我在这次数据课中的一个收获。数据分析中的五步法，就是一个很好的思考方式。它清晰地说明了实际问题和数据相融合的一个过程。假如你想更好地进行时间管理，可以试着把问题定义为：了解各小时的手机使用频率。在获取和清理数据之后，先对频率数据进行分析，再以可视化的形式说明自己的时间使用特点。
 
 下面就是一个数据可视化的小例子。处理前的数据是这样的，表格简单地记录了时间和传感器信息。数据 still 说明手机是静止的，tilting 说明手机是倾斜着的。
+<img src="https://raw.githubusercontent.com/linmiao/Data102/master/assignment/data.png?token=AKa5utVX5m4N4C2_YnyJpD3Jj8Jx98YGks5XlYPmwA%3D%3D" width=“100%” height="100%" style="float:left"/>
 但是，该怎么从表格里读出手机的使用情况呢？这里，使用肖凯老师教过的时间序列操作和可视化知识，数据就变成了下面这个样子。
+<img src="https://raw.githubusercontent.com/linmiao/Data102/master/assignment/learning_r1.jpg?token=AKa5ui8NCy5BsQfQUsTLJDZdUd1vl-TQks5XlYP5wA%3D%3D" width=“100%” height="100%" style="float:left"/>
 可视化将繁杂的数据变得简单明了：频繁分心看手机的时候，为图中手机使用频次较高的时段。这时可以记下使用频次高的时段，再进行任务分配的时，就可以试试避开这些容易分心的时候。
 
 ### 未来
