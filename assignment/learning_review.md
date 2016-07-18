@@ -30,7 +30,7 @@
 
 <img src="https://raw.githubusercontent.com/linmiao/Data102/master/assignment/learning_r1.jpg?token=AKa5urCpXkme2fWj_hoYZOJxMLXFPuxMks5XlYUPwA%3D%3D" width="40%" height="100%" />
 
-可视化将繁杂的数据变得简单明了：频繁分心看手机的时候，为图中手机使用频次较高的时段。这时可以记下使用频次高的时段，再进行任务分配的时，就可以试试避开这些容易分心的时间。
+可视化将繁杂的数据变得简单明了：频繁分心看手机的时候，为图中手机使用频次较高的时段。这时可以记下使用频次高的时段，再进行任务分配时，就可以试试避开这些容易分心的时候。
 
 
 ### 未来
