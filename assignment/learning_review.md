@@ -27,13 +27,13 @@
 
 下面就是一个数据可视化的小例子。处理前的数据表格，简单地记录了时间和手机传感器信息。数据 still 说明手机是静止的，tilting 说明手机是倾斜着的。该怎么从表格里读出手机的使用情况呢？这里，用肖凯老师教过的时间序列操作和可视化知识进行处理，数据就变成了下面这个样子。
 
-<img src="https://raw.githubusercontent.com/linmiao/Data102/master/assignment/learning_r1.jpg?token=AKa5urCpXkme2fWj_hoYZOJxMLXFPuxMks5XlYUPwA%3D%3D" width="40%" height="100%" />
+<img src="https://raw.githubusercontent.com/linmiao/linmiao.github.io/master/pic/NTU-ML-notes/learning_r1.jpg" width="40%" height="100%" />
 
 可视化将繁杂的数据变得简单明了：图中使用频次较高的时段，也就是频繁分心看手机的时候。这时，可以记下高频次时段，再进行重要任务分配的时候，就尽量避开这些容易分心的时间。
 
 虽然只是入门班，但课程难度远不止数据操作与可视化这么简单。最后的大作业，就要用到所学知识，独立完成一个数据科学项目。曾经嚷嚷着要做文本情感分析的我，终于做了一回推特数据的情感分析。实现方法虽尚显稚嫩，但从调用推特API，到朴素贝叶斯和线性判别分析的学习，再到最后的 WordCloud 词云可视化，其中的每一步都获益良多。而看着自己的想法被一步步实现，也是我在这次课程中的惊喜之一。
 
-<img src="https://raw.githubusercontent.com/linmiao/Data102/master/assignment/brepic.png?token=AKa5ul9AZDyG9S03f_VTq8WAPBHTVDwiks5Xle0WwA%3D%3D" width=“100%” height="100%" /> 
+<img src="https://raw.githubusercontent.com/linmiao/linmiao.github.io/master/pic/NTU-ML-notes/brepic.png" width=“100%” height="100%" /> 
 
 
 ### 未来
