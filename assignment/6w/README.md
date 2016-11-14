@@ -1,3 +1,1 @@
-~ 本目录主要用于存放 6w 课程作业
-
-
+Week 6. Scipy: Bisection Method, Gradient descent, Newton's method, Secant method 

@@ -1,3 +1,1 @@
-~ 本目录主要用于存放 2w 课程作业
-
-
+Using Numpy: Random Walk, Prime Sum, Integral Calculation   

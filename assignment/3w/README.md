@@ -1,3 +1,1 @@
-~ 本目录主要用于存放 3w 课程作业
-
-
+Week 3. Matplotlib: Plottings of Week 2 Assignments  

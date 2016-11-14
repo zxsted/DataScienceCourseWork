@@ -1,3 +1,1 @@
-~ 本目录主要用于存放 8w 课程作业
-
-
+Week 8. Sklearn:  Gradient Descent, K-nearest neighbours, Cross Validation, Creating Dummy Variables 

@@ -1,3 +1,1 @@
-~ 本目录主要用于存放 7w 课程作业
-
-
+Week 7. Statsmodels: Least Square Method, Linear Regression, Logistic Regression, Support Vector Machine, Random Forest, Time Series 

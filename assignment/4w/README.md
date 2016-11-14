@@ -1,3 +1,1 @@
-~ 本目录主要用于存放 4w 课程作业
-
-
+Week 4. Pandas: Getting, Cleaning, Analyzing and visualizing three dataset (earthquake, finance and group chat records) 
